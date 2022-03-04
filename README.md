@@ -13,3 +13,20 @@
 <h3>Любим веселые праздники для семей</h3>
 <h5>Эл. почта:@faritabdrakhmanov@gmail.com</h5>
 <h6>Номер телефона:8 903-459-60-39</h6>
+#style.css
+h4{
+    font-size:30px;text-align: center;
+
+h1 {
+color: red;
+}
+h3{
+    font-size:50px;text-align:center;background-color: rgb(30, 183, 210) ;
+}
+h5{
+    font-size: 30px;background-color: darkgoldenrod;
+
+}
+h6{
+    font-size: 30px;background-color: darkgoldenrod;                                                                                             
+                                                                                             
